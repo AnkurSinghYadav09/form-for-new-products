@@ -1,36 +1,4 @@
-// import {
-//   Text,
-//   Image,
-//   Box,
-//   Stack,
-//   Heading,
-//   Tag,
-//   TagLabel,
-//   Flex,
-// } from "@chakra-ui/react";
 
-// const Product = ({ imageSrc, title, category, price, gender }) => (
-//   <Stack data-cy="product">
-//     <Image src={imageSrc} data-cy="product-image" />
-
-//     <Flex>
-//       <Text data-cy="product-category">{category}</Text>
-//       {gender && (
-//         <Tag data-cy="product-gender">
-//           <TagLabel textTransform="uppercase">{gender}</TagLabel>
-//         </Tag>
-//       )}
-//     </Flex>
-
-//     <Heading data-cy="product-title">{title}</Heading>
-//     <Box data-cy="product-price">
-//       {price}
-//       <Box>/ unit</Box>
-//     </Box>
-//   </Stack>
-// );
-
-// export default Product;
 
 import {
   Text,
