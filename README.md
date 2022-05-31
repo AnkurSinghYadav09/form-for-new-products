@@ -1,4 +1,4 @@
-TO WATCH -- NETLIFY LINK --- my-new-react-app-project.netlify.app
+TO WATCH -- NETLIFY LINK --- ( my-new-react-app-project.netlify.app )
 
 1. Fork this repository.
 2. Clone the Forked repository.
